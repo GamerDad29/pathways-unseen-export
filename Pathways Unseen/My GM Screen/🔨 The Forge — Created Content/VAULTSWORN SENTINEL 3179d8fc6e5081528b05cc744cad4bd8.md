@@ -1,0 +1,101 @@
+# VAULTSWORN SENTINEL
+
+<aside>
+⚒️ *Monster · Brennan Lee Mulligan · Created by The Forge*
+
+</aside>
+
+<aside>
+💀 *Medium Construct, Lawful Neutral — Challenge 7 (2,900 XP)*
+
+</aside>
+
+**VAULTSWORN SENTINEL**
+
+*The Cogmind Collective sells Warforged to anyone with coin — kings, merchants, crime lords, and worse. But some clients require more than a soldier. They require a secret kept on two legs. The Vaultsworn Sentinel was designed not merely to protect a body, but to protect everything that body knows. It is a lock that walks beside you, and it was built by people who understood that the most valuable commodity in any city is information that never leaves the room.*
+
+**Armor Class** 18 (natural armor, shield) | **Hit Points** 136 (16d8 + 64) | **Speed** 30 ft.
+
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+
+|  20 (+5)  |  12 (+1)  |  18 (+4)  |  14 (+2)  |  16 (+3)  |  8 (-1)  |
+
+**Saving Throws:** Str +8, Con +7, Wis +6
+
+**Skills:** Athletics +8, Insight +6, Perception +9
+
+**Damage Immunities:** Poison, Psychic
+
+**Damage Resistances:** Bludgeoning, Piercing, and Slashing from nonmagical attacks
+
+**Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+
+**Senses:** Darkvision 60 ft., Passive Perception 19
+
+**Languages:** Common, Dwarvish, plus any two languages spoken by its current Principal
+
+---
+
+### **SPECIAL TRAITS**
+
+---
+
+***Sealbound Protocol.*** The Vaultsworn Sentinel is magically bonded to a single designated creature — its *Principal* — at the time of sale. The Sentinel has advantage on Wisdom (Insight) and Wisdom (Perception) checks made to detect threats to its Principal. While within 30 feet of its Principal, the Sentinel cannot be moved against its will by any effect that would physically separate them unless the effect first reduces the Sentinel to 0 hit points.
+
+***Threat-Assessment Architecture.*** The Sentinel has studied every individual it has ever been in a room with. At the start of each of its turns, the Sentinel automatically knows the exact hit point total of its Principal and the location of every creature within 60 feet that it is aware of, even if those creatures are hidden. This is a mechanical calculation, not magic, and cannot be suppressed by antimagic.
+
+***Constructed Nature.*** The Vaultsworn Sentinel doesn't require air, food, drink, or sleep.
+
+***Memory Seal.*** Any creature that succeeds on a Wisdom saving throw against the Sentinel's *Classified Discharge* ability gains no useful information from the experience — the Sentinel's combat subroutines are encrypted. A creature that attempts to read the Sentinel's thoughts (via *detect thoughts* or similar) must succeed on a DC 15 Intelligence saving throw or take 14 (4d6) psychic damage and gain nothing.
+
+***Sentinel's Interposition.*** When the Sentinel's Principal is targeted by an attack and the Sentinel is within 5 feet of the Principal, the Sentinel can use its reaction to become the target of that attack instead (see Reactions).
+
+---
+
+### **ACTIONS**
+
+---
+
+***Multiattack.*** The Vaultsworn Sentinel makes two *Enforcement Strike* attacks. If both attacks hit the same target, that target must succeed on a DC 16 Strength saving throw or be knocked prone.
+
+***Enforcement Strike (Melee Weapon Attack).*** *+8 to hit, reach 5 ft., one target.* Hit: 14 (2d8 + 5) bludgeoning damage. The target's speed is reduced by 10 feet until the start of the Sentinel's next turn.
+
+***Threshold Denial (Melee Weapon Attack).*** *+8 to hit, reach 10 ft., one target attempting to move within 10 feet of the Principal.* Hit: 18 (3d8 + 5) bludgeoning damage, and the target is pushed 10 feet away from the Principal and must succeed on a DC 16 Strength saving throw or fall prone. This attack can be made as a reaction (see Reactions) or as part of the Sentinel's Multiattack in place of one Enforcement Strike.
+
+***Classified Discharge (Recharge 5–6).*** The Sentinel vents a surge of encrypted arcane static in a 15-foot cone. Each creature in that area must make a DC 15 Intelligence saving throw. On a failed save, a creature takes 28 (8d6) psychic damage and is stunned until the end of its next turn. On a successful save, the creature takes half damage and is not stunned. The Principal is immune to this effect.
+
+---
+
+### **BONUS ACTIONS**
+
+---
+
+***Principal Repositioning.*** The Vaultsworn Sentinel physically moves its Principal up to 15 feet to an unoccupied space. This movement does not provoke opportunity attacks against the Principal. The Principal may choose to resist this movement, in which case the Sentinel requires no action but the Principal does not move.
+
+***Threat Designation.*** The Sentinel marks one creature it can see as a *Designated Threat*. Until the start of the Sentinel's next turn, it has advantage on all attack rolls against that creature, and that creature has disadvantage on attack rolls made against the Principal.
+
+---
+
+### **REACTIONS**
+
+---
+
+***Interposition Protocol.*** When the Sentinel's Principal is the target of an attack, spell, or effect, and the Sentinel is within 5 feet of the Principal, the Sentinel can use its reaction to step between them. The Sentinel becomes the target of the triggering attack or effect instead of the Principal. If the attack was a ranged attack or ranged spell attack, the Sentinel must first succeed on a DC 13 Dexterity saving throw to successfully interpose; on a failure, the original target is not changed.
+
+***Threshold Denial (Reaction).*** When a creature moves to within 10 feet of the Principal, the Sentinel can use its reaction to make a *Threshold Denial* attack against that creature.
+
+---
+
+### **DM NOTES**
+
+---
+
+*The Vaultsworn Sentinel is a creature that forces the party to make a decision: do you go through it, around it, or do you figure out who bought it — and why that person needed this level of protection?*
+
+*The Sentinel's greatest tactical feature is psychological. It doesn't fight to kill. It fights to contain. It will always prioritize keeping its Principal alive and away from harm over dealing damage, which means a clever party can use its Interposition Protocol against it — bait it into a bad position by threatening the Principal from range while closing in melee.*
+
+*The Principal is the encounter's real mystery. The Cogmind Collective does not sell Vaultsworn Sentinels to miners or merchants. These are purchased by people who know things worth killing to protect — crime bosses, rogue archivists, defecting noble heirs, intelligence brokers. Whoever this Sentinel is guarding has a secret that someone else desperately wants dead.*
+
+*Civilizational Echo: The existence of Vaultsworn Sentinels has fundamentally altered the calculus of assassination in every city where the Cogmind Collective operates. Three major noble houses on the continent have stopped using human bodyguards entirely — not because Sentinels are cheaper, but because human guards can be bribed, blackmailed, or flipped. The Sentinel cannot. This has created a thriving underground market for* Sentinel countermeasures *— mercenaries and mages who specialize specifically in defeating Cogmind constructs — and the Collective quietly funds both sides.*
+
+*Encounter Hook: The party is hired to deliver a message to a specific individual — a whistleblower, a witness, a contact. When they find the target, they find a Vaultsworn Sentinel standing between them and any conversation at all. The question isn't how to beat it. The question is: who bought this thing, and what are they trying to make sure their Principal never says out loud?*

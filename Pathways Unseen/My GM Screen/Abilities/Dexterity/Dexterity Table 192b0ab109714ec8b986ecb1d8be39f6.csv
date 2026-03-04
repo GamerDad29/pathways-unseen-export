@@ -1,0 +1,9 @@
+﻿Dexterity,Used For...,Rule
+Score,Determines modifier,Refer to https://www.notion.so/7c44d87cc0bd4aec9818c33d68cd748d?pvs=21
+Modifier,Determines bonus to Dexterity related rolls,Refer to https://www.notion.so/7c44d87cc0bd4aec9818c33d68cd748d?pvs=21
+,Armor Class,Certain types of armor add all or some of your DEX mod to your AC
+,Initiative,1d20 + DEX mod
+Save,Dodging out of harm's way,1d20 + DEX mod + Proficiency (if proficient)
+Dexterity Check,"Any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing",1d20 + DEX mod
+,Lock picking (with thieves tools),1d20 + DEX mod + Proficiency (if proficient)
+Other possible uses,Control a heavily laden cart on a steep descent. Steer a chariot around a tight turn. Disable a trap. Securely tie up a prisoner. Wriggle free of bonds. Craft a small or detailed object,

@@ -1,0 +1,7 @@
+﻿Item,Cost,Speed
+Galley,"30,000gp",4 mph
+Keelboat,"3,000gp",1 mph
+Longship,"10,000gp",3 mph
+Rowboat,50gp,1.5 mph
+Sailing Ship,"10,000gp",2 mph
+Warship,"25,000gp",2.5 mph

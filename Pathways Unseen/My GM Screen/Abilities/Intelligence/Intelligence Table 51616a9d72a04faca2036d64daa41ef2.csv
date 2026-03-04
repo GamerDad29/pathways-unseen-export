@@ -1,0 +1,6 @@
+﻿Intelligence,Used For...,Rule
+Score,Determines modifier,Refer to https://www.notion.so/7c44d87cc0bd4aec9818c33d68cd748d?pvs=21
+Modifier,Determines bonus to intelligence related rolls,Refer to https://www.notion.so/7c44d87cc0bd4aec9818c33d68cd748d?pvs=21
+Save,"Disbelieving certain illusions and resisting mental assaults that can be refuted with logic, sharp memory, or both",1d20 + Ability mod + Proficiency (if proficient)
+Check,"Drawing on logic, education, memory, or deductive reasoning",1d20 + INT mod
+Other possible uses,Communicate with a creature without words. Estimate the value of a precious item. Forge a document. Recall lore about a craft or trade. Win a game of skill,

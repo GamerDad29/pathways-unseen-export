@@ -1,0 +1,8 @@
+# Tome Of The Stilled Tongue
+
+Stat Block:  https://www.dndbeyond.com/magic-items/tome-of-the-stilled-tongue
+DMG Price: 50001+
+DMPG Price: 60,000
+XGE Price: 50000-300000
+Rarity: Legendary
+Type: Wondrous Items

@@ -1,0 +1,11 @@
+﻿Strength,Rule,Used For...
+Strength Check,1d20 + STR mod,"Any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation"
+,Up to 2 times carrying capacity $^2$,"Push, Drag, or Lift"
+,,
+,Strength score times 15 in pounds $^1$,Carrying Capacity
+Save,1d20 + STR mod + Proficiency (if proficient),Opposing a force that would physically move or bind you
+,DC 17 check,Breaking Rope
+,DC 20 check,Breaking Manacles
+Modifier,Refer to https://www.notion.so/7c44d87cc0bd4aec9818c33d68cd748d?pvs=21,Determines bonus to strength related rolls
+Other possible uses,,"Force open a stuck, locked, or barred door. Push through a tunnel that is too small. Hang on to a wagon while being dragged behind it. Tip over a statue. Keep a builder from rolling"
+Score,Refer to https://www.notion.so/7c44d87cc0bd4aec9818c33d68cd748d?pvs=21,Determines modifier

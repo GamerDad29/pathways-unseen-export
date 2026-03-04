@@ -1,0 +1,6 @@
+﻿Wisdom,Used For...,Rule
+Score,Determines modifier,Refer to https://www.notion.so/7c44d87cc0bd4aec9818c33d68cd748d?pvs=21
+Modifier,Determines bonus to wisdom related rolls,Refer to https://www.notion.so/7c44d87cc0bd4aec9818c33d68cd748d?pvs=21
+Save,"Resisting effects that charm, frighten, or otherwise assault your willpower",1d20 + WIS mod + Proficiency (if proficient)
+Check,"Reading body language, understanding someone's feelings, noticing things about the environment, or caring for an injured person",1d20 + WIS mod
+Other possible uses,Get a gut feeling about what course of action to follow. Discern whether a seemingly dead or living creature is undead,

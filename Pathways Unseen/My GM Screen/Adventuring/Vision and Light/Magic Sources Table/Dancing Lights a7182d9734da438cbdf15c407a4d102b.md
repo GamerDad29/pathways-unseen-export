@@ -1,0 +1,5 @@
+# Dancing Lights
+
+Bright Light: —
+Dim Light: 10 feet
+Duration: 1 minute

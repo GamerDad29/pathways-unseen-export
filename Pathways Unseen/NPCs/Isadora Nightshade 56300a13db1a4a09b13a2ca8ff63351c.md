@@ -1,0 +1,3 @@
+# Isadora Nightshade
+
+Campaign Organizations, Clans, & Families: The Velvet Syndicate (../Organizations,%20Clans,%20&%20Families/Campaign%20Organizations,%20Clans,%20&%20Families/The%20Velvet%20Syndicate%2074a26dc8e2c64e829d3416041593238f.md), Shadow Scale Clan (../Organizations,%20Clans,%20&%20Families/Campaign%20Organizations,%20Clans,%20&%20Families/Shadow%20Scale%20Clan%201443846ecefb44bcb93499994b2a6ce3.md)

@@ -1,0 +1,7 @@
+﻿Size,Space (ft),HP,Examples
+Tiny,2.5x2.5,d4 (2.5),"Hawk, Imp, Rat, Sprite"
+Small,5x5,d6 (3.5),"Giant rat, Goblin, Kobold"
+Medium,5x5,d8 (4.5),"Gnoll, Orc, Werewolf"
+Large,10x10,d10 (5.5),"Chimera, Hippogriff, Ogre"
+Huge,15x15,d12 (6.5),"Cyclops, Fire Giant, Treant"
+Gargantuan,20+x20+,d10 (10.5),"Ancient Dragon, Kraken"

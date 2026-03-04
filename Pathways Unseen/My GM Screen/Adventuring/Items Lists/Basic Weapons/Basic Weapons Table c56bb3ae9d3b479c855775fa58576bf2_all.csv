@@ -1,0 +1,43 @@
+﻿Name,Cost,Dmg,Properties *,Weight
+Maul,10 gp,2d6 B,"H, 2H",10 lb.
+Greatsword,50 gp,2d6 S,"H, 2H",6 lb.
+"Crossbow,     heavy",50 gp,1d10 P,"A Rg(100/400), H, Ld, 2H",18 lb.
+Longbow,50 gp,1d8 P,"A Rg(150,600), H, 2H",2 lb.
+Pike,5 gp,1d10 P,"H, Re, 2H",18 lb.
+Morningstar,15 gp,1d8 P,-,4 lb.
+Net,1 gp,—,"Sp, Th Rg(5/15)",3 lb.
+Simple Melee Weapons,-,-,-,-
+Club,1 sp,1d4 B,Li,2 lb.
+Glaive,20 gp,1d10 S,"H, Re, 2H",6 lb.
+Blowgun,10 gp,1 P,"A Rg(25/100), Ld",1 lb.
+Rapier,25 gp,1d8 P,F,2 lb.
+"Crossbow,     light",25 gp,1d8 P,"A Rg(80/320), Ld, 2H",5 lb.
+Greatclub,2 sp,1d8 B,2H,10 lb.
+Unarmed     strike,—,1 B,-,—
+Dagger,2 gp,1d4 P,"F, Li, Th Rg(20/60)",1 lb.
+Shortsword,10 gp,1d6 P,"F, Li",2 lb.
+Warhammer,15 gp,1d8 B,V(1d10),2 lb.
+War pick,5 gp,1d8 P,-,2 lb.
+Quarterstaff,2 sp,1d6 B,V(1d10),4 lb.
+Trident,5 gp,1d6 P,"Th Rg(20/60), V(1d8)",4 lb.
+Scimitar,25 gp,1d6 S,"F, Li",3 lb.
+Spear,1 gp,1d6 P,"Th Rg(20/60), V(1d8)",3 lb.
+Dart,5 cp,1d4 P,"F, Th Rg(20/60)",1/4 lb.
+Lance,10 gp,1d12 P,"R, Sp",6 lb.
+Martial Melee Weapons,-,-,-,-
+Martial Ranged Weapons,-,-,-,-
+Javelin,5 sp,1d6 P,Th Rg(30/120),2 lb.
+Simple Ranged Weapons,-,-,-,-
+Sickle,1 gp,1d4 S,Li,2 lb.
+Light     hammer,2 gp,1d4 B,"Li, Th Rg(20/60)",2 lb.
+Shortbow,25 gp,1d6 P,"A Rg(80/320), 2H",2 lb.
+"Crossbow,     hand",75 gp,1d6 P,"A Rg(30/120), Li, Ld",3 lb.
+Handaxe,5 gp,1d6 S,"Li, Th Rg(20/60)",2 lb.
+Battleaxe,10 gp,1d8 S,V(1d10),4 lb.
+Halberd,20 gp,1d10 S,"H, Re, 2H",6 lb.
+Longsword,15 gp,1d8 S,V(1d10),3 lb.
+Greataxe,30 gp,1d12 S,"H, 2H",7 lb.
+Mace,5 gp,1d6 B,-,4 lb.
+Flail,10 gp,1d8 B,-,2 lb.
+Whip,2 gp,1d4 S,"F, Re",3 lb.
+Sling,1 sp,1d4 B,A Rg(320),—

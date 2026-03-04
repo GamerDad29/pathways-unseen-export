@@ -1,0 +1,6 @@
+﻿Charisma,Used For...,Rule
+Score,Determines modifier,Refer to https://www.notion.so/7c44d87cc0bd4aec9818c33d68cd748d?pvs=21
+Modifier,Determines bonus to charisma related rolls,Refer to https://www.notion.so/7c44d87cc0bd4aec9818c33d68cd748d?pvs=21
+Save,"Withstanding effects, such as possession, that would subsume your personality or hurl you to another plane of existence",1d20 + WIS mod + Proficiency (if proficient)
+Check,"Trying to influence or entertain others, when you try to make an impression or tell a convincing lie, or when you are navigating a tricky social situation",1d20 + Ability mod
+Other possible uses,Find the best person to talk to for news and gossip. Blend into a crowd to get the sense of key topics of conversation,

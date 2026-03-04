@@ -1,0 +1,53 @@
+﻿d100,Item
+01,"Arrow, broken"
+02-04,Ashes
+05-06,Bones
+07,"Bottle, broken"
+08,"Chain, corroded"
+09,"Club, splintered"
+10-019,Cobwebs
+20,"Coin, copper"
+21-22,"Cracks, ceiling"
+23-24,"Cracks, floor"
+25-26,"Cracks, wall"
+27,Dagger hilt
+28-29,Damp ceiling
+30-33,"Dampness, wall"
+34,Dried blood
+35-41,Dripping blood
+42-44,Dung
+45-49,Dust
+50,"Flask, cracked"
+51,Food scraps
+52,Fungi (common)
+53-55,guano
+56,hair or fur
+57,"Hammer head, cracked"
+58,"Helmet, badly dented"
+59,"Iron bar, bent and rusted"
+60,"Javelin head, blunt"
+61,Leather boot
+62-64,Leaves and twigs
+65-68,Mold (common)
+69,Pick handle
+70,"Pole, broken (5 ft. long)"
+71,Pottery shards
+72-73,Rags
+74,"Rope, rotten"
+75-76,Rubble and dirt
+77,"Sack, torn"
+78-80,Slime (harmless)
+81,"Spike, rusted"
+82-83,Sticks
+84,"Stones, small"
+85,Straw
+86,"Sword blade, broken"
+87,"Teeth or fangs, scattered"
+88,Torch stub
+89,Wall Scratching
+90-91,"Water, large puddle"
+92-93,"Water, small puddle"
+94-95,"Water, trickle"
+96,Wax blob (candle stub)
+97,Wax drippings
+98-100,"Wood pieces, rotting"

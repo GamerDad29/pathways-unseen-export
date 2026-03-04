@@ -1,0 +1,4 @@
+# Whetstone
+
+Cost: 1 cp
+Weight: 1 lb.

@@ -1,0 +1,12 @@
+﻿Constitution,Rule,Used For...
+Other possible uses,,Quaff an entire stein of ale in one go
+,DC equal to greater of 10 or ½ of damage taken while concentrating on a spell,Concentration
+,Can go without enough food for days equal to 3 + CON mod. Each day past limit gain 1 level of exhaustion,Going without food
+,"Survive for minutes equal to 1 + CON mod (minimum 30 seconds), then survives for rounds equal to CON mod. Next turn drops to 0 HP and is dying",Holding your breath
+Score,Refer to https://www.notion.so/7c44d87cc0bd4aec9818c33d68cd748d?pvs=21,Determines constitution modifier
+,DC 15 or gain 1 level of exhaustion,Going without enough water
+,CON mod added to each hit dice used during short rest,Using Hit Dice
+,CON mod added to HP at each level,Determining Hit Points
+Check,,"Very rarely used, but can be used to push yourself beyond normal limits"
+Save,1d20 + CON mod + Proficiency (if proficient),"Endures a disease, poison, or other hazard that saps vitality"
+Modifier,Refer to https://www.notion.so/7c44d87cc0bd4aec9818c33d68cd748d?pvs=21,Determines bonus to constitution related rolls

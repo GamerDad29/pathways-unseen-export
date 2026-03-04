@@ -1,0 +1,8 @@
+﻿# of Enemies,Party Size & Modifier 1,Party Size & Modifier 2,Party Size & Modifier
+,1-2,3-5,6+
+Single Enemy,x 1.5,-,x .5
+Pair,x 2,x 1.5,-
+Group (3-6),x 2.5,x 2,x 1.5
+Gang (7-10),x 3,x 2.5,x 2
+Mob (11-14),x 4,x 3,x 2.5
+Horde (15+),x 5,x 4,x 3

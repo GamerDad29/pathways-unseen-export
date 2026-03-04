@@ -1,0 +1,18 @@
+﻿Armor,Cost,AC,Weight
+Light Armor,-,-,-
+Padded $^1$,5 gp,11 + Dex mod,8 lb.
+Leather,10 gp,11 + Dex mod,10 lb.
+Studded leather,45 gp,12 + Dex mod,13 lb.
+Medium Armor,-,-,-
+Hide,10 gp,12 + Dex mod (Max 2),12 lb.
+Chain shirt,50 gp,13 + Dex mod (Max 2),20 lb.
+Scale mail $^1$,50 gp,14 + Dex mod (Max 2),45 lb.
+Breastplate,400 gp,14 + Dex mod (Max 2),20 lb.
+Half plate $^1$,750 gp,15 + Dex mod (Max 2),40 lb.
+Heavy Armor,-,-,-
+Ring mail $^1$,30 gp,14,40 lb.
+Chain mail $^1$,75 gp,16,55 lb.
+Splint $^1$,200 gp,17,60 lb.
+Plate $^1$,"1,500 gp",18,65 lb.
+Shield,-,-,-
+Shield,10 gp,+2,6 lb.

@@ -1,0 +1,4 @@
+# Herbalism kit
+
+Cost: 5 gp
+Weight: 3 lb.

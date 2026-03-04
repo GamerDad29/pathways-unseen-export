@@ -1,0 +1,13 @@
+﻿Service,Pay
+Coach Cab,-
+Between Towns,3 cp/mile
+Within a City,1 cp
+Hireling,-
+Skilled,2 gp/day
+Unskilled,2 sp/day
+Messenger,2 cp/mile
+Road/Gate Toll,1 cp
+Ship's Passage,1 sp/mile
+First Level Spell $^1$,10-30gp + components
+Second Level Spell $^1$,30-50gp + components
+Third+ Level Spell $^2$,How much ya got? $^3$

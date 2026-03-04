@@ -1,0 +1,3 @@
+# Moderate
+
+DC: 15

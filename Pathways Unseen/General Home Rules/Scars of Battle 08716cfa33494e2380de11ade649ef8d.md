@@ -1,0 +1,23 @@
+# Scars of Battle
+
+### Scars of Battle
+
+The scars of battle are not just physical, but also mental. "Scars of Battle" is a homebrew system designed to add depth and realism to your campaign. This system focuses on the psychological and physical impacts of combat, allowing characters to develop fears and scars that reflect their harrowing experiences. With this system, each battle leaves a lasting mark, shaping your characters' journeys and stories in a way that is both manageable and deeply immersive. Whether it's a newfound fear of wolves after a near-fatal encounter or a scar earned in a heroic struggle, these battle scars serve as reminders of the trials faced and the resilience of those who bear them.
+
+### Fear Condition
+
+- **Triggered by Specific Encounters**: If a character is severely injured, knocked out, or experiences a traumatic event involving a specific type of enemy (like wolves), they develop a fear of that specific enemy.
+- **Mechanic**: When encountering the same type of enemy again, the character must make a Wisdom saving throw (DC set by DM based on severity of past trauma). On a failure, they suffer disadvantage on attack rolls and ability checks against that enemy for the duration of the encounter.
+
+### Physical Scarring from Critical Blows
+
+- **Triggered by Critical Hits**: When a character receives a critical hit, especially in a vulnerable area like the head, they receive a physical scar.
+- **Mechanic**:
+    - **Cosmetic Effect**: The scar is mostly cosmetic but can be used for role-playing purposes, like recounting tales of past battles.
+    - **Potential Minor Mechanical Effect**: Depending on the location and severity of the scar, you might introduce minor mechanical effects. For example, a scar on the head might result in occasional headaches, imposing a slight penalty on concentration checks or perception checks in certain situations.
+
+### Implementation Notes
+
+- **Roleplaying Emphasis**: These effects are meant to enhance roleplaying opportunities and the realism of the game world. They should be used to enrich the story rather than to excessively penalize players.
+- **Player and DM Discretion**: These rules should be applied with discretion, keeping in mind the fun and comfort level of all players. Not every critical hit or knock-out needs to lead to a lasting trauma.
+- **Recovery and Healing**: Introduce ways for characters to overcome these traumas, such as therapy, quests, or magical healing, to provide a path for character development and resolution.

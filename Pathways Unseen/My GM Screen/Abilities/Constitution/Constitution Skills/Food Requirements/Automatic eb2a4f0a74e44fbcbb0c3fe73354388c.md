@@ -1,0 +1,3 @@
+# Automatic
+
+Description: A PC must eat one pound of food per day in order to subsist. They can go without food for a number of days equal to 3 + their Constitution modifier (minimum 1) before they begin to starve. This day count is reset when the PC eats their fill for a day; otherwise, the PC advances one level of exhaustion at the end of each day beyond their limit

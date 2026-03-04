@@ -1,0 +1,9 @@
+﻿Item,Cost,Speed,Carrying Capacity
+Camel,50gp,50ft.,480 lb
+Donkey or Mule,8gp,40ft.,420 lb.
+Elephant,200gp,40ft.,1320 lb.
+"Horse, draft",50gp,40ft.,540 lb.
+"Horse, riding",75gp,60ft.,480 lb.
+Mastiff,25gp,40ft.,195 lb.
+Pony,30gp,40ft.,225 lb.
+Warhorse,400gp,60ft.,540 lb.

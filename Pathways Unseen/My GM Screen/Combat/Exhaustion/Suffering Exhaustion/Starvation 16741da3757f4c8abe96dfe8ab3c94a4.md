@@ -1,0 +1,3 @@
+# Starvation
+
+Details: If a creature doesn't eat enough food in a day, they start to starve. Food can be stretched out by eating half as much per day, which counts as half a day without food. A character can go without food for a number of days equal to 3 + CON mod, and then at the end of each day beyond that a character automatically suffers 1 level of exhaustion. A normal day of eating reduces the days without food to 0
